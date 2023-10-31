@@ -1,0 +1,5 @@
+ConfigArgParse==1.7
+Pillow==10.1.0
+psutil==5.9.6
+pynput==1.7.6
+screeninfo==0.8.1

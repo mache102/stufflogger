@@ -1,0 +1,6 @@
+log_path = logs/
+
+keylog = True
+ss = True
+ss_interval = 5
+ss_resolution_factor = 0.05
